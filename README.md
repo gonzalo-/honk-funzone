@@ -6,4 +6,4 @@ Icons or images for the Honk's funzone
 Clone this repo and put the images inside your *honk* directory, by default should be **/var/honk/emus/**
 
 ## Contributors
-[@horia]
+[@horia](https://github.com/horia/ "@horia")
